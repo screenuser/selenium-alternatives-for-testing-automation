@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.selalt.screenster"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>selenium-alternatives-for-testing-automation</name>
+
+  <description>
+Is there even such a thing as a real Selenium alternative? Ask any tester to recommend one, and with a 99% probability, they’ll name a tool based on Selenium WebDriver. Besides, how many companies using real Selenium WebDriver alternatives can you name? Something tells me the answer is zero.
+  </description>
+
+  <author href="https://screenster.io"  >
+      Screenster
+  </author>
+
+</widget>
